@@ -1,0 +1,4 @@
+//moddir 1_Hemond/Segregated
+load_file("nrngui.hoc")
+chdir("1_Hemond/Segregated")
+load_file("mosinit.hoc")
